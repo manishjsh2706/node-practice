@@ -12,4 +12,5 @@ const server = http.createServer(function(req,res){
 });
 server.listen(3000);
 console.log("Server running");
+console.log("Server running1");
 console.log("At http://localhost:3000");
